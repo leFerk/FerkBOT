@@ -1,7 +1,7 @@
 <?php
-
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * Mein kleiner FerkBOT fuer http://botliga.de
+ * 
+ * @author LeFerk <LeFerk@umschaltperrre.de>
  */
 ?>
